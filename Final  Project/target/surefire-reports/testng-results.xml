@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-10T02:20:54 EEST" name="Command line suite" finished-at="2023-06-10T02:20:54 EEST" duration-ms="67">
+    <groups>
+    </groups>
+    <test started-at="2023-06-10T02:20:54 EEST" name="Command line test" finished-at="2023-06-10T02:20:54 EEST" duration-ms="67">
+      <class name="com.itfactory.PatratTest">
+        <test-method signature="testCalculeazaPerimetru()[pri:0, instance:com.itfactory.PatratTest@52525845]" started-at="2023-06-10T02:20:54 EEST" name="testCalculeazaPerimetru" finished-at="2023-06-10T02:20:54 EEST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculeazaPerimetru -->
+      </class> <!-- com.itfactory.PatratTest -->
+      <class name="com.itfactory.DreptunghiTest">
+        <test-method signature="testCalculeazaPerimetru()[pri:0, instance:com.itfactory.DreptunghiTest@2fd66ad3]" started-at="2023-06-10T02:20:54 EEST" name="testCalculeazaPerimetru" finished-at="2023-06-10T02:20:54 EEST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculeazaPerimetru -->
+      </class> <!-- com.itfactory.DreptunghiTest -->
+      <class name="com.itfactory.TriunghiTest">
+        <test-method signature="testCalculeazaPerimetru()[pri:0, instance:com.itfactory.TriunghiTest@3b94d659]" started-at="2023-06-10T02:20:54 EEST" name="testCalculeazaPerimetru" finished-at="2023-06-10T02:20:54 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculeazaPerimetru -->
+      </class> <!-- com.itfactory.TriunghiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
